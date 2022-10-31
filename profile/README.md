@@ -20,3 +20,7 @@ Beam's designs are 100% public for people to see on [Figma](https://www.figma.co
 ## 📝 License
 
 Beam is open-source through the GPL-3.0 license.
+
+## ⚠️
+
+This project has gone dormant... I plan to tackle and continue this project sometime in the future. If you have any questions feel free to email me!
